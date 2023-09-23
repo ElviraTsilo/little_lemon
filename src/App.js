@@ -9,8 +9,8 @@ function App() {
     <ChakraProvider>
       <Header />
       <Main />
-  
-    </ChakraProvider>
+      <Footer />
+       </ChakraProvider>
   );
 }
 export default App;
