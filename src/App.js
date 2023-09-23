@@ -8,6 +8,7 @@ function App() {
   return (
     <ChakraProvider>
       <Header />
+      <Main />
   
     </ChakraProvider>
   );
